@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1728966935296,
+      "tag": "0000_chilly_fantastic_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1729136851076,
+      "tag": "0001_charming_shotgun",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1729138132675,
+      "tag": "0002_friendly_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1729489984672,
+      "tag": "0003_fixed_gideon",
+      "breakpoints": true
+    }
+  ]
+}
